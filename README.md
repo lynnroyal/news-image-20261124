@@ -1,5 +1,11 @@
 # Sum up 24 November's world news in one image
 
+[![make.fun](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+![rank](https://make.fun/badge/news-image-20261124/lynnroyal/news-image-20261124/rank.svg)
+![reward](https://make.fun/badge/news-image-20261124/lynnroyal/news-image-20261124/reward.svg)
+
+[make.fun bounty: Sum up 24 November's world news in one image](https://make.fun/bounty/news-image-20261124)
+
 Program that sums up world news from Tuesday 24 November 2026 in one image.
 
 Run `python3 main.py`. It writes `entry.png` (1024x1024, under 1 MiB).
